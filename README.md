@@ -28,3 +28,4 @@ Creative industries such as print, feature films, music, fabrication or interact
 | Week Date          | Tentative Topic |
 |:----------------------|:--|
 |Week 1| Introduction to Python, Numpy and Pytorch, K-Nearest Neighbour Classifier|
+|Week 2| Optimization, First order and Second order methods|
